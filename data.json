@@ -30,7 +30,13 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Rough count of India's higher-budget private/CBSE-ICSE schools capable of paying for assessment tools (not all ~1.5M schools, most are govt/low-fee)",
   "assumption_addressable": "Only schools with digital readiness + assessment budget authority, not exam-board-mandated tools",
-  "assumption_acv": "Small per-school SaaS/service fee, competency add-on pricing"
+  "assumption_acv": "Small per-school SaaS/service fee, competency add-on pricing",
+  "fermi_chain": [
+   "school-age children (6-17) ≈ 22% of population ≈ 300M",
+   "assume ~40 students per section, ~10 sections per school on average → ≈400 students/school",
+   "300M school-age children ÷ 400 students/school ≈ 750,000 schools nationally",
+   "of these, private/budget-holding schools (CBSE/ICSE/private-aided) ≈ 20% ≈ 150,000 — this is the addressable population before the 5% reachability filter"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -63,7 +69,13 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "AICTE-recognised engineering colleges in India (IITs, NITs, VTU-affiliated etc.)",
   "assumption_addressable": "Colleges with placement pressure and NBA/NAAC accreditation cycles needing competency evidence — close to your SKET-type pipeline",
-  "assumption_acv": "Comparable to your existing SKET-type ERP-adjacent deal size, scaled to assessment-only scope"
+  "assumption_acv": "Comparable to your existing SKET-type ERP-adjacent deal size, scaled to assessment-only scope",
+  "fermi_chain": [
+   "higher-ed age cohort (18-23) ≈ 9% of population ≈ 125M",
+   "of the 125M higher-ed-age cohort, engineering aspirants ≈ 3% ≈ 3.75M students currently enrolled in engineering",
+   "typical engineering college intake ≈ 1,000 students across 4 years → ≈3,750 colleges",
+   "rounds to the commonly-cited ≈3,800 AICTE-recognised engineering colleges"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -96,7 +108,12 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Total recognised medical colleges (MCI/NMC list)",
   "assumption_addressable": "Subset with strong outcome-reporting pressure (NEET-PG performance, accreditation)",
-  "assumption_acv": "Higher-stakes clinical competency assessment commands premium pricing vs generic exam tools"
+  "assumption_acv": "Higher-stakes clinical competency assessment commands premium pricing vs generic exam tools",
+  "fermi_chain": [
+   "higher-ed age cohort (18-23) ≈ 9% of population ≈ 125M",
+   "medical aspirants ≈ 0.4% of the higher-ed-age cohort ≈ 500,000 students (MBBS+PG combined, steady-state)",
+   "typical medical college cohort ≈ 700-750 students across the full course → ≈700 colleges"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -129,7 +146,12 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Indian Nursing Council registered institutions",
   "assumption_addressable": "Only larger/chain institutions (e.g. Manipal-style) with assessment budgets, most are small and fee-constrained",
-  "assumption_acv": "Lower ACV — nursing colleges have thinner budgets than medical/engineering"
+  "assumption_acv": "Lower ACV — nursing colleges have thinner budgets than medical/engineering",
+  "fermi_chain": [
+   "higher-ed age cohort (18-23) ≈ 9% of population ≈ 125M",
+   "nursing students ≈ 1.5% of higher-ed-age cohort ≈ 1.9M enrolled (incl. diploma+degree)",
+   "typical nursing college size ≈ 500-550 students across the course → ≈3,500 colleges"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -162,7 +184,12 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Council of Architecture recognised colleges",
   "assumption_addressable": "Design-heavy institutions where competency is inherently hard to exam-test, natural fit",
-  "assumption_acv": "Small niche, moderate per-college fee reflecting design-portfolio assessment complexity"
+  "assumption_acv": "Small niche, moderate per-college fee reflecting design-portfolio assessment complexity",
+  "fermi_chain": [
+   "higher-ed age cohort (18-23) ≈ 9% of population ≈ 125M",
+   "architecture students ≈ 0.15% of higher-ed-age cohort ≈ 190,000 enrolled",
+   "typical batch size ≈ 400 across 5-year course → ≈470 colleges"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -195,7 +222,12 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "All India B-schools incl. AICTE-approved + university-affiliated",
   "assumption_addressable": "Only ones investing in employability/placement branding (IIMs, ISB-tier and mid-tier B-schools)",
-  "assumption_acv": "Higher ACV for prestige institutes competing on placement outcomes"
+  "assumption_acv": "Higher ACV for prestige institutes competing on placement outcomes",
+  "fermi_chain": [
+   "higher-ed age cohort (18-23) ≈ 9% of population ≈ 125M",
+   "MBA/PGDM enrolment ≈ 1.6% of cohort ≈ 2M students (2-year programme, so ≈1M/year intake × 2)",
+   "average institute intake ≈ 200/year → ≈5,000 B-schools nationally"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -228,7 +260,12 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "BCI-recognised law colleges incl. NLUs",
   "assumption_addressable": "Smaller reachable set — legal education slower to adopt competency tools than STEM",
-  "assumption_acv": "Modest per-college fee, competency-linked to bar exam readiness"
+  "assumption_acv": "Modest per-college fee, competency-linked to bar exam readiness",
+  "fermi_chain": [
+   "higher-ed age cohort (18-23) ≈ 9% of population ≈ 125M",
+   "law students ≈ 0.5% of cohort ≈ 625,000 enrolled across a 3-5 year course",
+   "typical law college size ≈ 400-450 → ≈1,500 colleges"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -261,7 +298,12 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "AICTE-recognised polytechnics (govt + private)",
   "assumption_addressable": "Subset aligned with state skilling missions and placement mandates",
-  "assumption_acv": "Lower ACV given govt-funded institution budget constraints"
+  "assumption_acv": "Lower ACV given govt-funded institution budget constraints",
+  "fermi_chain": [
+   "higher-ed age cohort (18-23) ≈ 9% of population ≈ 125M",
+   "diploma/polytechnic enrolment ≈ 1.4% of cohort ≈ 1.75M across 3-year course",
+   "typical polytechnic intake ≈ 150/year × 3 years ≈ 450 students/institute → ≈4,000 polytechnics"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -294,7 +336,12 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Govt + private ITIs under DGT (~14,000+ nationally)",
   "assumption_addressable": "Small % reachable given fragmented, state-run structure, but large govt skilling tailwind",
-  "assumption_acv": "Low per-institute fee but high volume potential via NSDC/state-mission bundling"
+  "assumption_acv": "Low per-institute fee but high volume potential via NSDC/state-mission bundling",
+  "fermi_chain": [
+   "school-age children (6-17) ≈ 22% of population ≈ 300M (post-10th cohort is the relevant slice)",
+   "ITI trainees ≈ 2% of the annual post-10th cohort (~25M/year) ≈ 500,000 enrolled at any time",
+   "average ITI batch size ≈ 35-40 → ≈14,000 ITIs nationally (matches DGT's published count)"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -327,7 +374,12 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Estimated large informal + branded test-prep market (Allen, Aakash, thousands of local centres)",
   "assumption_addressable": "Very low % — most coaching centres are exam-drilling, not competency-outcome focused, so weak product-market fit",
-  "assumption_acv": "Low ACV — consumer-facing coaching margins are thin, hard to sell B2B tools into"
+  "assumption_acv": "Low ACV — consumer-facing coaching margins are thin, hard to sell B2B tools into",
+  "fermi_chain": [
+   "school-age children (6-17) ≈ 22% of population ≈ 300M plus higher-ed-age cohort combined ≈ 425M addressable students",
+   "≈15-20% take some form of paid coaching (competitive exams, board exams) ≈ 70-80M students",
+   "average coaching centre serves ≈ 2,000 students/year → ≈35,000-40,000 centres (branded + local)"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -360,7 +412,11 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Major CA/CS coaching brands (JK Shah, VSI etc.) + regional players",
   "assumption_addressable": "Moderate — CA coaching already tracks structured competency (exam pass rates), natural fit",
-  "assumption_acv": "Mid ACV reflecting high-stakes professional exam prep economics"
+  "assumption_acv": "Mid ACV reflecting high-stakes professional exam prep economics",
+  "fermi_chain": [
+   "CA aspirants registered with ICAI ≈ 800,000-900,000 at any time (published ICAI figures)",
+   "spread across coaching brands, average brand/branch serves ≈ 1,200-1,500 students → ≈600 coaching centres nationally"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -393,7 +449,12 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Structured language institutes (Goethe-Institut-type + private academies)",
   "assumption_addressable": "Small reachable set but strong product fit — mirrors your CEFR assessment work at Sir MVIT directly",
-  "assumption_acv": "ACV benchmarked against your existing CEFR platform deployment experience"
+  "assumption_acv": "ACV benchmarked against your existing CEFR platform deployment experience",
+  "fermi_chain": [
+   "urban population ≈ 35% of total ≈ 490M households",
+   "foreign-language learners (German/French/Japanese etc.) ≈ 0.05-0.1% of urban population ≈ 250,000-500,000 learners",
+   "average institute serves ≈ 1,000-1,500 learners/year → ≈300 structured language institutes"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -426,7 +487,11 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Handful of major India-relevant MOOC/online-learning platforms (Coursera, SWAYAM, upGrad, Simplilearn)",
   "assumption_addressable": "High % since each platform, if landed, is a single large enterprise deal, not volume play",
-  "assumption_acv": "Very high ACV — platform-level integration deal, not per-institution pricing"
+  "assumption_acv": "Very high ACV — platform-level integration deal, not per-institution pricing",
+  "fermi_chain": [
+   "handful of India-scale online learning platforms with meaningful assessment/certification volume",
+   "counted directly rather than derived — Coursera, SWAYAM, upGrad, Simplilearn, edX-India, Unacademy-Pro-tier ≈ 20-30 platforms"
+  ]
  },
  {
   "macro": "Learning Providers",
@@ -459,7 +524,11 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Large enterprises with dedicated internal academies (Infosys Lex-type)",
   "assumption_addressable": "Small % — only enterprises with formalised L&D academies, not all large companies",
-  "assumption_acv": "High ACV reflecting enterprise L&D budgets"
+  "assumption_acv": "High ACV reflecting enterprise L&D budgets",
+  "fermi_chain": [
+   "formal/organised-sector workforce ≈ 10% of total workforce ≈ 56M",
+   "large enterprises (>1,000 employees) with a formal internal academy ≈ 0.5% of firms in the formal-workforce universe ≈ 2,000 companies (India has ~1,500-2,000 firms of this scale per MCA/industry data)"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -492,7 +561,11 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "Mid-to-large Indian corporates (approx addressable universe with formal HR/assessment budgets)",
   "assumption_addressable": "Very small % given how crowded and commoditised corporate HR-tech already is",
-  "assumption_acv": "Mid-high ACV but crowded market compresses realistic win-rate"
+  "assumption_acv": "Mid-high ACV but crowded market compresses realistic win-rate",
+  "fermi_chain": [
+   "formal/organised-sector workforce ≈ 10% of total workforce ≈ 56M",
+   "firms in the organised sector with a distinct HR function (not just an admin generalist) ≈ 25,000 (mid-to-large firms per MCA active-company filings)"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -525,7 +598,10 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "Subset of corporate HR with dedicated L&D function",
   "assumption_addressable": "Small % — L&D budgets often bundled with broader HR-tech, hard to unbundle",
-  "assumption_acv": "Mid ACV similar to Corporate HR band"
+  "assumption_acv": "Mid ACV similar to Corporate HR band",
+  "fermi_chain": [
+   "subset of Corporate HR (25,000 firms) that has split out a dedicated L&D function ≈ 60% of mid-large firms ≈ 15,000"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -558,7 +634,11 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "Registered staffing/recruitment firms in India (TeamLease-type + smaller players)",
   "assumption_addressable": "Moderate % — high placement volume creates natural pull for objective competency signals",
-  "assumption_acv": "Mid ACV, volume-driven business so per-account pricing stays moderate"
+  "assumption_acv": "Mid ACV, volume-driven business so per-account pricing stays moderate",
+  "fermi_chain": [
+   "formal/organised-sector workforce ≈ 10% of total workforce ≈ 56M",
+   "registered staffing/recruitment firms handling formal-sector placements ≈ 5,000 (Indian Staffing Federation + informal count)"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -591,7 +671,10 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "Recruitment Process Outsourcing firms operating in India (fewer, larger accounts)",
   "assumption_addressable": "High % — RPO firms handle enterprise hiring volume where competency data has clear ROI",
-  "assumption_acv": "Higher ACV — fewer but larger, more sophisticated buyers"
+  "assumption_acv": "Higher ACV — fewer but larger, more sophisticated buyers",
+  "fermi_chain": [
+   "RPO is a specialised subset of staffing — global + India-focused RPO providers operating at scale in India ≈ 250-300 firms"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -624,7 +707,11 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "College placement cells, closely tied to Engineering Colleges count",
   "assumption_addressable": "High % — placement cells directly benefit from verified competency data for employer credibility",
-  "assumption_acv": "Lower ACV per cell but adjacent to your existing engineering-college relationships (SKET-type)"
+  "assumption_acv": "Lower ACV per cell but adjacent to your existing engineering-college relationships (SKET-type)",
+  "fermi_chain": [
+   "directly tied to the Engineering + Management + Polytechnic + Law college counts above (≈3,800+5,000+4,000+1,500) → every accredited college runs a placement cell",
+   "conservative count of colleges with an active, staffed placement cell ≈ 4,000"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -657,7 +744,11 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "Structured apprenticeship schemes under NAPS and similar",
   "assumption_addressable": "Moderate % — govt skilling tailwind creates policy pull, but procurement is slow",
-  "assumption_acv": "Mid-high ACV reflecting programme-level (not individual) contracts"
+  "assumption_acv": "Mid-high ACV reflecting programme-level (not individual) contracts",
+  "fermi_chain": [
+   "formal/organised-sector workforce ≈ 10% of total workforce ≈ 56M",
+   "firms formally registered under NAPS (National Apprenticeship Promotion Scheme) ≈ 500 large active sponsors (published NAPS portal scale)"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -690,7 +781,11 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "Manufacturing companies with structured internal training (Toyota-type)",
   "assumption_addressable": "Low % — industrial buyers have long sales cycles and entrenched internal processes",
-  "assumption_acv": "Mid ACV but long time-to-close reduces realistic near-term value"
+  "assumption_acv": "Mid ACV but long time-to-close reduces realistic near-term value",
+  "fermi_chain": [
+   "formal/organised-sector workforce ≈ 10% of total workforce ≈ 56M",
+   "manufacturing-sector firms (formal, >100 employees) with structured internal training ≈ 3,000 (subset of India's ~250,000 registered factories, filtered to scale + formal training budget)"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -723,7 +818,10 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "Handful of major India gig-economy platforms (Urban Company-type)",
   "assumption_addressable": "High % — each platform is a single large strategic account if landed",
-  "assumption_acv": "High ACV — platform-level competency verification (e.g. service-provider skill checks) is high value"
+  "assumption_acv": "High ACV — platform-level competency verification (e.g. service-provider skill checks) is high value",
+  "fermi_chain": [
+   "gig/on-demand service platforms operating at national or multi-city scale in India ≈ 30-40 (counted directly — a small, known list)"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -756,7 +854,11 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "Registered recruitment agencies (Adecco-type + many smaller)",
   "assumption_addressable": "Low % — highly commoditised, price-sensitive, crowded field",
-  "assumption_acv": "Low ACV — thin-margin business limits willingness to pay"
+  "assumption_acv": "Low ACV — thin-margin business limits willingness to pay",
+  "fermi_chain": [
+   "formal/organised-sector workforce ≈ 10% of total workforce ≈ 56M",
+   "registered recruitment/placement agencies ≈ 4,000 (Ministry of Labour registration data order-of-magnitude)"
+  ]
  },
  {
   "macro": "Hiring & Workforce",
@@ -789,7 +891,10 @@
   "research_source": "India HR-tech market, ~₹10,400 Cr (2025), 7.56% CAGR — IMARC",
   "assumption_count": "Large enterprises with dedicated internal-mobility/talent-marketplace functions",
   "assumption_addressable": "Moderate % — a newer but growing HR function with executive visibility",
-  "assumption_acv": "High ACV — enterprise-level strategic function, fewer larger deals"
+  "assumption_acv": "High ACV — enterprise-level strategic function, fewer larger deals",
+  "fermi_chain": [
+   "large enterprises (>5,000 employees) with a formalised internal-mobility/talent-marketplace function ≈ 800 (a newer function, mostly IT/ITES + large conglomerates)"
+  ]
  },
  {
   "macro": "Government & Public Sector",
@@ -822,7 +927,10 @@
   "research_source": "MSDE budget ₹6,100 Cr (FY25-26 BE) — actual utilisation was only ₹2,774.70 Cr in FY24-25, so treat this as a demand ceiling, not confirmed spend — Union Budget Demand No. 92",
   "assumption_count": "Single national body — not a count-based guesstimate",
   "assumption_addressable": "Full weight — one relationship, high strategic leverage if landed",
-  "assumption_acv": "Very high notional value reflecting programme-level, multi-year potential rather than a single deal"
+  "assumption_acv": "Very high notional value reflecting programme-level, multi-year potential rather than a single deal",
+  "fermi_chain": [
+   "a single national apex body — not population-derived, counted directly as 1"
+  ]
  },
  {
   "macro": "Government & Public Sector",
@@ -855,7 +963,11 @@
   "research_source": "MSDE budget ₹6,100 Cr (FY25-26 BE) — actual utilisation was only ₹2,774.70 Cr in FY24-25, so treat this as a demand ceiling, not confirmed spend — Union Budget Demand No. 92",
   "assumption_count": "36 states/UTs with skill development missions",
   "assumption_addressable": "Moderate % — direct precedent via your Telangana Dronalytics pipeline",
-  "assumption_acv": "ACV benchmarked against your live Telangana engagement (D. Sridhar Babu / TOMCOM pipeline)"
+  "assumption_acv": "ACV benchmarked against your live Telangana engagement (D. Sridhar Babu / TOMCOM pipeline)",
+  "fermi_chain": [
+   "36 states/UTs",
+   "every state/UT runs a skill-mission body, so count ≈ 36 directly"
+  ]
  },
  {
   "macro": "Government & Public Sector",
@@ -888,7 +1000,10 @@
   "research_source": "MSDE budget ₹6,100 Cr (FY25-26 BE) — actual utilisation was only ₹2,774.70 Cr in FY24-25, so treat this as a demand ceiling, not confirmed spend — Union Budget Demand No. 92",
   "assumption_count": "Major recruitment boards (SSC, UPSC + state boards)",
   "assumption_addressable": "Small % — slow-moving, high procurement barriers, entrenched legacy processes",
-  "assumption_acv": "High notional ACV per board but low realistic win probability near-term"
+  "assumption_acv": "High notional ACV per board but low realistic win probability near-term",
+  "fermi_chain": [
+   "national boards (SSC, UPSC, IBPS, RRB) + one board per state/UT ≈ 4 national + 36 state ≈ 40"
+  ]
  },
  {
   "macro": "Government & Public Sector",
@@ -921,7 +1036,10 @@
   "research_source": "MSDE budget ₹6,100 Cr (FY25-26 BE) — actual utilisation was only ₹2,774.70 Cr in FY24-25, so treat this as a demand ceiling, not confirmed spend — Union Budget Demand No. 92",
   "assumption_count": "Handful of national defence training institutions (NDA-type)",
   "assumption_addressable": "Small % — very few, extremely high trust/security barriers to entry",
-  "assumption_acv": "High notional ACV reflecting scale, but access is the real constraint, not price"
+  "assumption_acv": "High notional ACV reflecting scale, but access is the real constraint, not price",
+  "fermi_chain": [
+   "national tri-service and single-service training academies (NDA, IMA, INA, AFA, OTA etc.) ≈ 10-12 — counted directly, a small known list"
+  ]
  },
  {
   "macro": "Government & Public Sector",
@@ -954,7 +1072,11 @@
   "research_source": "MSDE budget ₹6,100 Cr (FY25-26 BE) — actual utilisation was only ₹2,774.70 Cr in FY24-25, so treat this as a demand ceiling, not confirmed spend — Union Budget Demand No. 92",
   "assumption_count": "State police training academies (~30 nationally)",
   "assumption_addressable": "Small % — state-level procurement, slow cycles",
-  "assumption_acv": "Mid-high notional ACV, similar access constraints as defence"
+  "assumption_acv": "Mid-high notional ACV, similar access constraints as defence",
+  "fermi_chain": [
+   "36 states/UTs",
+   "each state runs at least one police training academy → ≈30 (some larger states run 2)"
+  ]
  },
  {
   "macro": "Government & Public Sector",
@@ -987,7 +1109,11 @@
   "research_source": "MSDE budget ₹6,100 Cr (FY25-26 BE) — actual utilisation was only ₹2,774.70 Cr in FY24-25, so treat this as a demand ceiling, not confirmed spend — Union Budget Demand No. 92",
   "assumption_count": "State public universities (~450 nationally)",
   "assumption_addressable": "Small % — similar dynamics to engineering colleges but slower-moving, more bureaucratic",
-  "assumption_acv": "Lower ACV reflecting public-sector budget constraints vs private institutions"
+  "assumption_acv": "Lower ACV reflecting public-sector budget constraints vs private institutions",
+  "fermi_chain": [
+   "higher-ed age cohort (18-23) ≈ 9% of population ≈ 125M and Gross Enrolment Ratio in higher ed ≈ 28%, so ≈ 35M students in higher ed nationally",
+   "of ≈35M higher-ed students, the majority are in public university systems; UGC lists ≈450 state/central public universities directly"
+  ]
  },
  {
   "macro": "Government & Public Sector",
@@ -1020,7 +1146,11 @@
   "research_source": "MSDE budget ₹6,100 Cr (FY25-26 BE) — actual utilisation was only ₹2,774.70 Cr in FY24-25, so treat this as a demand ceiling, not confirmed spend — Union Budget Demand No. 92",
   "assumption_count": "State-level employment exchange systems (aggregated at state, ~36)",
   "assumption_addressable": "Small % — state-level aggregation point, adjacent to your ITDA/Telangana relationship",
-  "assumption_acv": "Mid-high ACV reflecting state-level (not per-office) contracts"
+  "assumption_acv": "Mid-high ACV reflecting state-level (not per-office) contracts",
+  "fermi_chain": [
+   "36 states/UTs",
+   "employment-exchange systems are administered at state level (district offices roll up to one state authority) → ≈36 decision-making bodies"
+  ]
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1053,7 +1183,10 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Established assessment/HR-tech companies operating in India (Mercer Mettl-tier and below)",
   "assumption_addressable": "Small % — this segment is more often a competitor than a customer, so realistic partnership/reseller conversion is low",
-  "assumption_acv": "High notional ACV reflecting platform/API partnership deals, not typical SaaS pricing"
+  "assumption_acv": "High notional ACV reflecting platform/API partnership deals, not typical SaaS pricing",
+  "fermi_chain": [
+   "established assessment/HR-tech companies with meaningful India operations ≈ 50-70 (Mercer Mettl-tier down to smaller specialist players) — counted directly from known market landscape"
+  ]
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1086,7 +1219,10 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Professional certification bodies active in India (PMI-type + domestic)",
   "assumption_addressable": "Small % — partnership potential higher than direct-purchase potential",
-  "assumption_acv": "Mid-high ACV reflecting co-branded certification-verification deals"
+  "assumption_acv": "Mid-high ACV reflecting co-branded certification-verification deals",
+  "fermi_chain": [
+   "professional/technical certification bodies active in India (global + domestic) ≈ 70-90 — counted directly"
+  ]
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1119,7 +1255,10 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "National accreditation bodies (NAAC, NBA and equivalents — very few)",
   "assumption_addressable": "High % of the tiny pool — landing even one has outsized downstream influence across all affiliated institutions",
-  "assumption_acv": "Very high notional ACV given multiplier effect on institutions using Drona indirectly"
+  "assumption_acv": "Very high notional ACV given multiplier effect on institutions using Drona indirectly",
+  "fermi_chain": [
+   "national accreditation bodies for higher ed ≈ 10 (NAAC, NBA, NABL, NABH, and a few sector-specific ones) — a small, directly-known list"
+  ]
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1152,7 +1291,10 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Statutory professional councils (ICAI, Nursing Council etc.)",
   "assumption_addressable": "Moderate % — regulatory bodies are slow but sticky once engaged",
-  "assumption_acv": "Mid-high ACV reflecting long-term regulatory relationship value"
+  "assumption_acv": "Mid-high ACV reflecting long-term regulatory relationship value",
+  "fermi_chain": [
+   "statutory professional councils (ICAI, ICSI, MCI/NMC, BCI, Nursing Council, COA etc.) ≈ 20-25 — counted directly"
+  ]
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1185,7 +1327,10 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "Major national/global testing organisations operating in India (Pearson VUE, NTA-type)",
   "assumption_addressable": "Small % — dominated by global incumbents with deep infrastructure, hard to displace",
-  "assumption_acv": "High notional ACV but low realistic win probability given entrenched competition"
+  "assumption_acv": "High notional ACV but low realistic win probability given entrenched competition",
+  "fermi_chain": [
+   "national + global testing organisations with India testing infrastructure (NTA, Pearson VUE, ETS, Prometric) ≈ 12-15"
+  ]
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1218,7 +1363,11 @@
   "research_source": "India Assessment Services Market, ~₹6,900 Cr (2024), 7.04% CAGR to 2030 — Research and Markets / TechSci Research",
   "assumption_count": "State-level licensing bodies (medical councils etc.)",
   "assumption_addressable": "Small % — regulatory, slow-moving, similar to professional councils",
-  "assumption_acv": "Mid ACV reflecting state-level contract scope"
+  "assumption_acv": "Mid ACV reflecting state-level contract scope",
+  "fermi_chain": [
+   "36 states/UTs",
+   "professional licensing is largely state-administered (medical/nursing councils) → ≈30 state-level bodies"
+  ]
  },
  {
   "macro": "Impact & Development",
@@ -1240,7 +1389,7 @@
   "comp_class": "Low",
   "distance": 2,
   "confidence": "partial",
-  "note": "Direct LakePulse CSR marketplace precedent",
+  "note": "CSR-mandated foundations with active skilling/education programmes; independent of any other Altumind engagement",
   "scenario_title": "Under-the-radar bet",
   "scenario_strategy": "High priority. Small but low-risk, low-cost to test, real proof potential.",
   "research_size_inr": 484154930,
@@ -1250,8 +1399,12 @@
   "research_competitors": "Sattva Consulting, LabourNet, CSRBOX, SoulAce, Consultivo, Goodera, NuSocia",
   "research_source": "CSR impact-assessment services, derived ~₹150-400 Cr/yr (2% cap on ₹40,794 Cr FY24-25 total CSR spend) — Fulcrum Bharat CSR Report 2026 + ThinkCap Advisors",
   "assumption_count": "Corporate CSR foundations active in skilling/education (Infosys Foundation-type)",
-  "assumption_addressable": "Moderate % — direct precedent via your LakePulse CSR marketplace concept work",
-  "assumption_acv": "ACV benchmarked against your existing LakePulse CSR rejuvenation marketplace pitch economics"
+  "assumption_addressable": "Moderate % — CSR-mandated firms with formal, brand-visible foundations and existing education/skilling programme lines are the realistic near-term buyer, not the full CSR-obligated universe",
+  "assumption_acv": "Benchmarked against typical CSR-programme services contracts (impact measurement, M&E tooling) in the ₹5-15L range per foundation per year",
+  "fermi_chain": [
+   "companies mandated under Section 135 (Companies Act) to spend on CSR ≈ 20,000+ nationally",
+   "of these, those with a formal, brand-visible CSR foundation (vs. ad-hoc CSR spend) ≈ 2-3% ≈ 500"
+  ]
  },
  {
   "macro": "Impact & Development",
@@ -1284,7 +1437,10 @@
   "research_source": "CSR impact-assessment services, derived ~₹150-400 Cr/yr (2% cap on ₹40,794 Cr FY24-25 total CSR spend) — Fulcrum Bharat CSR Report 2026 + ThinkCap Advisors",
   "assumption_count": "Large national NGO landscape (Pratham-type + thousands of smaller orgs)",
   "assumption_addressable": "Very small % — most NGOs have limited willingness/ability to pay for tools",
-  "assumption_acv": "Low ACV — fragmented, budget-constrained sector"
+  "assumption_acv": "Low ACV — fragmented, budget-constrained sector",
+  "fermi_chain": [
+   "registered NGOs in India number in the several millions, but those with education/skilling as a core, fundable programme area ≈ 0.2-0.3% of the total registered base ≈ 8,000"
+  ]
  },
  {
   "macro": "Impact & Development",
@@ -1317,7 +1473,11 @@
   "research_source": "CSR impact-assessment services, derived ~₹150-400 Cr/yr (2% cap on ₹40,794 Cr FY24-25 total CSR spend) — Fulcrum Bharat CSR Report 2026 + ThinkCap Advisors",
   "assumption_count": "Startup incubators nationally (NSRCEL-type)",
   "assumption_addressable": "Moderate % — adjacent to your own spatial/GIS consulting network and startup ecosystem exposure",
-  "assumption_acv": "Mid ACV reflecting programme-level (cohort-based) contracts"
+  "assumption_acv": "Mid ACV reflecting programme-level (cohort-based) contracts",
+  "fermi_chain": [
+   "formal/organised-sector workforce ≈ 10% of total workforce ≈ 56M context: India has ≈115,000 DPIIT-recognised startups",
+   "incubators/accelerators supporting them ≈ 0.25% of that ecosystem's institutional backbone ≈ 300 (matches published incubator directories)"
+  ]
  },
  {
   "macro": "Impact & Development",
@@ -1350,7 +1510,10 @@
   "research_source": "CSR impact-assessment services, derived ~₹150-400 Cr/yr (2% cap on ₹40,794 Cr FY24-25 total CSR spend) — Fulcrum Bharat CSR Report 2026 + ThinkCap Advisors",
   "assumption_count": "Very few structured international migration/skilling programmes (GIZ Triple Win-type)",
   "assumption_addressable": "High % of a tiny pool — this is your existing proof point, not a hypothesis",
-  "assumption_acv": "ACV directly benchmarked against your live GIZ Triple Win engagement — your most concrete anchor in the whole dataset"
+  "assumption_acv": "ACV directly benchmarked against your live GIZ Triple Win engagement — your most concrete anchor in the whole dataset",
+  "fermi_chain": [
+   "structured, government-to-government or multilateral overseas-employment/migration programmes active in India ≈ 15 — a small, directly-known list (GIZ Triple Win and similar)"
+  ]
  },
  {
   "macro": "Impact & Development",
@@ -1383,7 +1546,10 @@
   "research_source": "CSR impact-assessment services, derived ~₹150-400 Cr/yr (2% cap on ₹40,794 Cr FY24-25 total CSR spend) — Fulcrum Bharat CSR Report 2026 + ThinkCap Advisors",
   "assumption_count": "International development agencies active in India (UNDP-type + others)",
   "assumption_addressable": "Moderate % — few accounts but high prestige and downstream credibility value",
-  "assumption_acv": "High ACV reflecting agency-level, multi-year programme contracts"
+  "assumption_acv": "High ACV reflecting agency-level, multi-year programme contracts",
+  "fermi_chain": [
+   "major bilateral + multilateral development agencies with active India programmes (UNDP, World Bank, GIZ, USAID, ADB, JICA etc.) ≈ 40 — counted directly"
+  ]
  },
  {
   "macro": "Impact & Development",
@@ -1416,6 +1582,9 @@
   "research_source": "CSR impact-assessment services, derived ~₹150-400 Cr/yr (2% cap on ₹40,794 Cr FY24-25 total CSR spend) — Fulcrum Bharat CSR Report 2026 + ThinkCap Advisors",
   "assumption_count": "Scholarship-granting foundations (Inlaks-type + others)",
   "assumption_addressable": "Small % — fragmented, low awareness of competency-assessment tools as a category",
-  "assumption_acv": "Mid ACV reflecting foundation-level programme contracts"
+  "assumption_acv": "Mid ACV reflecting foundation-level programme contracts",
+  "fermi_chain": [
+   "private scholarship-granting foundations with meaningful annual disbursement ≈ 400 (order-of-magnitude from known foundation directories, e.g. Inlaks-scale and below)"
+  ]
  }
 ]
