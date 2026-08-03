@@ -49,7 +49,8 @@
   "market_size_high": 2250000000,
   "growth_low": 8.4,
   "growth_high": 16.8,
-  "priority_rank": 22
+  "priority_rank": 22,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -101,7 +102,8 @@
   "market_size_high": 456000000,
   "growth_low": 7.0,
   "growth_high": 14.0,
-  "priority_rank": 3
+  "priority_rank": 3,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -152,7 +154,8 @@
   "market_size_high": 70000000,
   "growth_low": 5.6,
   "growth_high": 11.2,
-  "priority_rank": 13
+  "priority_rank": 13,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -203,7 +206,8 @@
   "market_size_high": 70000000,
   "growth_low": 6.3,
   "growth_high": 12.6,
-  "priority_rank": 16
+  "priority_rank": 16,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -254,7 +258,8 @@
   "market_size_high": 28200000,
   "growth_low": 4.9,
   "growth_high": 9.8,
-  "priority_rank": 17
+  "priority_rank": 17,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -305,7 +310,8 @@
   "market_size_high": 175000000,
   "growth_low": 5.6,
   "growth_high": 11.2,
-  "priority_rank": 8
+  "priority_rank": 8,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -356,7 +362,8 @@
   "market_size_high": 37500000,
   "growth_low": 4.2,
   "growth_high": 8.4,
-  "priority_rank": 18
+  "priority_rank": 18,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -407,7 +414,8 @@
   "market_size_high": 128000000,
   "growth_low": 6.3,
   "growth_high": 12.6,
-  "priority_rank": 6
+  "priority_rank": 6,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -458,7 +466,8 @@
   "market_size_high": 210000000,
   "growth_low": 9.8,
   "growth_high": 19.6,
-  "priority_rank": 5
+  "priority_rank": 5,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -509,7 +518,8 @@
   "market_size_high": 160000000,
   "growth_low": 10.5,
   "growth_high": 21.0,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -559,7 +569,8 @@
   "market_size_high": 24000000,
   "growth_low": 5.6,
   "growth_high": 11.2,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -610,7 +621,8 @@
   "market_size_high": 15000000,
   "growth_low": 7.0,
   "growth_high": 14.0,
-  "priority_rank": 9
+  "priority_rank": 9,
+  "segment_type": "market"
  },
  {
   "macro": "Learning Providers",
@@ -660,7 +672,8 @@
   "market_size_high": 30000000,
   "growth_low": 12.6,
   "growth_high": 25.2,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "channel"
  },
  {
   "macro": "Learning Providers",
@@ -710,7 +723,8 @@
   "market_size_high": 120000000,
   "growth_low": 7.7,
   "growth_high": 15.4,
-  "priority_rank": 15
+  "priority_rank": 15,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -760,7 +774,8 @@
   "market_size_high": 400000000,
   "growth_low": 9.1,
   "growth_high": 18.2,
-  "priority_rank": 23
+  "priority_rank": 23,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -809,7 +824,8 @@
   "market_size_high": 315000000,
   "growth_low": 9.8,
   "growth_high": 19.6,
-  "priority_rank": 24
+  "priority_rank": 24,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -859,7 +875,8 @@
   "market_size_high": 150000000,
   "growth_low": 7.0,
   "growth_high": 14.0,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -908,7 +925,8 @@
   "market_size_high": 45000000,
   "growth_low": 6.3,
   "growth_high": 12.6,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -958,7 +976,8 @@
   "market_size_high": 120000000,
   "growth_low": 8.4,
   "growth_high": 16.8,
-  "priority_rank": 1
+  "priority_rank": 1,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -1008,7 +1027,8 @@
   "market_size_high": 40000000,
   "growth_low": 11.2,
   "growth_high": 22.4,
-  "priority_rank": 10
+  "priority_rank": 10,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -1058,7 +1078,8 @@
   "market_size_high": 54000000,
   "growth_low": 6.3,
   "growth_high": 12.6,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -1107,7 +1128,8 @@
   "market_size_high": 12800000,
   "growth_low": 14.0,
   "growth_high": 28.0,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -1157,7 +1179,8 @@
   "market_size_high": 48000000,
   "growth_low": 5.6,
   "growth_high": 11.2,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Hiring & Workforce",
@@ -1206,7 +1229,8 @@
   "market_size_high": 80000000,
   "growth_low": 5.6,
   "growth_high": 11.2,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Government & Public Sector",
@@ -1255,7 +1279,8 @@
   "market_size_high": 5000000,
   "growth_low": 7.0,
   "growth_high": 14.0,
-  "priority_rank": 11
+  "priority_rank": 11,
+  "segment_type": "market"
  },
  {
   "macro": "Government & Public Sector",
@@ -1305,7 +1330,8 @@
   "market_size_high": 43200000,
   "growth_low": 10.5,
   "growth_high": 21.0,
-  "priority_rank": 2
+  "priority_rank": 2,
+  "segment_type": "market"
  },
  {
   "macro": "Government & Public Sector",
@@ -1354,7 +1380,8 @@
   "market_size_high": 24000000,
   "growth_low": 4.2,
   "growth_high": 8.4,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Government & Public Sector",
@@ -1403,7 +1430,8 @@
   "market_size_high": 7200000,
   "growth_low": 3.5,
   "growth_high": 7.0,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Government & Public Sector",
@@ -1453,7 +1481,8 @@
   "market_size_high": 9600000,
   "growth_low": 4.2,
   "growth_high": 8.4,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Government & Public Sector",
@@ -1503,7 +1532,8 @@
   "market_size_high": 36000000,
   "growth_low": 4.9,
   "growth_high": 9.8,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Government & Public Sector",
@@ -1553,7 +1583,8 @@
   "market_size_high": 17280000,
   "growth_low": 6.3,
   "growth_high": 12.6,
-  "priority_rank": 19
+  "priority_rank": 19,
+  "segment_type": "market"
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1603,7 +1634,8 @@
   "market_size_high": 27000000,
   "growth_low": 8.4,
   "growth_high": 16.8,
-  "priority_rank": 14
+  "priority_rank": 14,
+  "segment_type": "channel"
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1652,7 +1684,8 @@
   "market_size_high": 28800000,
   "growth_low": 7.0,
   "growth_high": 14.0,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1701,7 +1734,8 @@
   "market_size_high": 24000000,
   "growth_low": 4.2,
   "growth_high": 8.4,
-  "priority_rank": 20
+  "priority_rank": 20,
+  "segment_type": "market"
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1750,7 +1784,8 @@
   "market_size_high": 15000000,
   "growth_low": 4.9,
   "growth_high": 9.8,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1799,7 +1834,8 @@
   "market_size_high": 18750000,
   "growth_low": 5.6,
   "growth_high": 11.2,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1849,7 +1885,8 @@
   "market_size_high": 14400000,
   "growth_low": 4.2,
   "growth_high": 8.4,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Impact & Development",
@@ -1899,7 +1936,8 @@
   "market_size_high": 80000000,
   "growth_low": 9.8,
   "growth_high": 19.6,
-  "priority_rank": 7
+  "priority_rank": 7,
+  "segment_type": "market"
  },
  {
   "macro": "Impact & Development",
@@ -1948,7 +1986,8 @@
   "market_size_high": 48000000,
   "growth_low": 7.7,
   "growth_high": 15.4,
-  "priority_rank": null
+  "priority_rank": null,
+  "segment_type": "market"
  },
  {
   "macro": "Impact & Development",
@@ -1998,7 +2037,8 @@
   "market_size_high": 24000000,
   "growth_low": 6.3,
   "growth_high": 12.6,
-  "priority_rank": 21
+  "priority_rank": 21,
+  "segment_type": "market"
  },
  {
   "macro": "Impact & Development",
@@ -2047,7 +2087,8 @@
   "market_size_high": 18000000,
   "growth_low": 11.2,
   "growth_high": 22.4,
-  "priority_rank": 4
+  "priority_rank": 4,
+  "segment_type": "market"
  },
  {
   "macro": "Impact & Development",
@@ -2096,7 +2137,8 @@
   "market_size_high": 28800000,
   "growth_low": 8.4,
   "growth_high": 16.8,
-  "priority_rank": 12
+  "priority_rank": 12,
+  "segment_type": "market"
  },
  {
   "macro": "Impact & Development",
@@ -2145,6 +2187,7 @@
   "market_size_high": 32000000,
   "growth_low": 7.0,
   "growth_high": 14.0,
-  "priority_rank": 25
+  "priority_rank": 25,
+  "segment_type": "market"
  }
 ]
