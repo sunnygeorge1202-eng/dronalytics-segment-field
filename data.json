@@ -50,7 +50,9 @@
   "growth_low": 8.4,
   "growth_high": 16.8,
   "priority_rank": 22,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -103,7 +105,9 @@
   "growth_low": 7.0,
   "growth_high": 14.0,
   "priority_rank": 3,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -155,7 +159,9 @@
   "growth_low": 5.6,
   "growth_high": 11.2,
   "priority_rank": 13,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -207,7 +213,9 @@
   "growth_low": 6.3,
   "growth_high": 12.6,
   "priority_rank": 16,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -259,7 +267,9 @@
   "growth_low": 4.9,
   "growth_high": 9.8,
   "priority_rank": 17,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -311,7 +321,9 @@
   "growth_low": 5.6,
   "growth_high": 11.2,
   "priority_rank": 8,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -363,7 +375,9 @@
   "growth_low": 4.2,
   "growth_high": 8.4,
   "priority_rank": 18,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -415,7 +429,9 @@
   "growth_low": 6.3,
   "growth_high": 12.6,
   "priority_rank": 6,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -467,7 +483,9 @@
   "growth_low": 9.8,
   "growth_high": 19.6,
   "priority_rank": 5,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -519,7 +537,9 @@
   "growth_low": 10.5,
   "growth_high": 21.0,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -570,7 +590,9 @@
   "growth_low": 5.6,
   "growth_high": 11.2,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -622,7 +644,9 @@
   "growth_low": 7.0,
   "growth_high": 14.0,
   "priority_rank": 9,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Learning Providers",
@@ -673,7 +697,9 @@
   "growth_low": 12.6,
   "growth_high": 25.2,
   "priority_rank": null,
-  "segment_type": "channel"
+  "segment_type": "channel",
+  "monetization_mode": "API / usage-based (embedded SDK)",
+  "monetization_note": "Usage-based API pricing (per-verification or per-learner) fits how these platforms already price their own services — a per-institution SaaS model doesn't map to their business."
  },
  {
   "macro": "Learning Providers",
@@ -724,7 +750,9 @@
   "growth_low": 7.7,
   "growth_high": 15.4,
   "priority_rank": 15,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -775,7 +803,9 @@
   "growth_low": 9.1,
   "growth_high": 18.2,
   "priority_rank": 23,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -825,7 +855,9 @@
   "growth_low": 9.8,
   "growth_high": 19.6,
   "priority_rank": 24,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -876,7 +908,9 @@
   "growth_low": 7.0,
   "growth_high": 14.0,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -926,7 +960,9 @@
   "growth_low": 6.3,
   "growth_high": 12.6,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -977,7 +1013,9 @@
   "growth_low": 8.4,
   "growth_high": 16.8,
   "priority_rank": 1,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -1028,7 +1066,9 @@
   "growth_low": 11.2,
   "growth_high": 22.4,
   "priority_rank": 10,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (NAPS-linked)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -1079,7 +1119,9 @@
   "growth_low": 6.3,
   "growth_high": 12.6,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -1129,7 +1171,9 @@
   "growth_low": 14.0,
   "growth_high": 28.0,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "API / usage-based (per-verification)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -1180,7 +1224,9 @@
   "growth_low": 5.6,
   "growth_high": 11.2,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Hiring & Workforce",
@@ -1230,7 +1276,9 @@
   "growth_low": 5.6,
   "growth_high": 11.2,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS) + API for HRIS integration",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Government & Public Sector",
@@ -1280,7 +1328,9 @@
   "growth_low": 7.0,
   "growth_high": 14.0,
   "priority_rank": 11,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (govt, multi-year)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Government & Public Sector",
@@ -1331,7 +1381,9 @@
   "growth_low": 10.5,
   "growth_high": 21.0,
   "priority_rank": 2,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (state govt, multi-year)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Government & Public Sector",
@@ -1381,7 +1433,9 @@
   "growth_low": 4.2,
   "growth_high": 8.4,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (govt procurement)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Government & Public Sector",
@@ -1431,7 +1485,9 @@
   "growth_low": 3.5,
   "growth_high": 7.0,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (govt procurement)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Government & Public Sector",
@@ -1482,7 +1538,9 @@
   "growth_low": 4.2,
   "growth_high": 8.4,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (govt procurement)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Government & Public Sector",
@@ -1533,7 +1591,9 @@
   "growth_low": 4.9,
   "growth_high": 9.8,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Subscription (SaaS)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Government & Public Sector",
@@ -1584,7 +1644,9 @@
   "growth_low": 6.3,
   "growth_high": 12.6,
   "priority_rank": 19,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (state govt)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1635,7 +1697,9 @@
   "growth_low": 8.4,
   "growth_high": 16.8,
   "priority_rank": 14,
-  "segment_type": "channel"
+  "segment_type": "channel",
+  "monetization_mode": "White-label / licensing",
+  "monetization_note": "Revenue-share or flat licensing fee for embedding Drona's competency engine in the partner's existing product — not a per-seat sale."
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1685,7 +1749,9 @@
   "growth_low": 7.0,
   "growth_high": 14.0,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "White-label / licensing (co-branded certification)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1735,7 +1801,9 @@
   "growth_low": 4.2,
   "growth_high": 8.4,
   "priority_rank": 20,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "White-label / licensing (embedded in accreditation workflow)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1785,7 +1853,9 @@
   "growth_low": 4.9,
   "growth_high": 9.8,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (regulatory body)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1835,7 +1905,9 @@
   "growth_low": 5.6,
   "growth_high": 11.2,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "White-label / licensing (infrastructure partnership)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1886,7 +1958,9 @@
   "growth_low": 4.2,
   "growth_high": 8.4,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (regulatory body)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Impact & Development",
@@ -1937,7 +2011,9 @@
   "growth_low": 9.8,
   "growth_high": 19.6,
   "priority_rank": 7,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Services contract (programme-linked, annual)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Impact & Development",
@@ -1987,7 +2063,9 @@
   "growth_low": 7.7,
   "growth_high": 15.4,
   "priority_rank": null,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Services contract (programme-linked)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Impact & Development",
@@ -2038,7 +2116,9 @@
   "growth_low": 6.3,
   "growth_high": 12.6,
   "priority_rank": 21,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Services contract (cohort-based)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Impact & Development",
@@ -2088,7 +2168,9 @@
   "growth_low": 11.2,
   "growth_high": 22.4,
   "priority_rank": 4,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (agency-funded, GIZ Triple Win-style)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Impact & Development",
@@ -2138,7 +2220,9 @@
   "growth_low": 8.4,
   "growth_high": 16.8,
   "priority_rank": 12,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Programme contract (agency-funded)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  },
  {
   "macro": "Impact & Development",
@@ -2188,6 +2272,8 @@
   "growth_low": 7.0,
   "growth_high": 14.0,
   "priority_rank": 25,
-  "segment_type": "market"
+  "segment_type": "market",
+  "monetization_mode": "Services contract (programme-linked, annual)",
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
  }
 ]
