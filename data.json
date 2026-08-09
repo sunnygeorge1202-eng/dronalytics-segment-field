@@ -5,7 +5,7 @@
   "segment": "Schools",
   "examples": "Kendriya Vidyalaya, DPS",
   "current": "Schools struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 150000,
   "addressable_pct": 0.05,
   "addressable_n": 7500,
@@ -52,7 +52,16 @@
   "priority_rank": 7,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_pain_urgency": 2,
+  "beachhead_purchasing_power": 2,
+  "beachhead_market_density": 4,
+  "beachhead_whole_product_fit": 2,
+  "beachhead_total": 10,
+  "beachhead_source_note": "NOT scored in your Beachhead PDF at all — Schools appeared in the Stage 1 gatekeeper list but was dropped before Stage 2 scoring, meaning your own team's exercise implicitly deprioritised it. This tool's priority rank of #7 conflicts with that. Scores here are this tool's independent estimate, not from your PDF, and are flagged accordingly.",
+  "beachhead_rank": 9,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -60,7 +69,7 @@
   "segment": "Engineering Colleges",
   "examples": "IITs, NITs, VTU Colleges",
   "current": "Engineering Colleges struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 3800,
   "addressable_pct": 0.15,
   "addressable_n": 570,
@@ -107,7 +116,16 @@
   "priority_rank": 6,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_pain_urgency": 3,
+  "beachhead_purchasing_power": 4,
+  "beachhead_market_density": 3,
+  "beachhead_whole_product_fit": 1,
+  "beachhead_total": 11,
+  "beachhead_source_note": "From your Beachhead PDF, discussion pass.",
+  "beachhead_rank": 7,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -115,7 +133,7 @@
   "segment": "Medical Colleges",
   "examples": "AIIMS, KMC",
   "current": "Medical Colleges struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 700,
   "addressable_pct": 0.1,
   "addressable_n": 70,
@@ -161,7 +179,11 @@
   "priority_rank": 17,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -169,7 +191,7 @@
   "segment": "Nursing Colleges",
   "examples": "Manipal Nursing",
   "current": "Nursing Colleges struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 3500,
   "addressable_pct": 0.05,
   "addressable_n": 175,
@@ -215,7 +237,11 @@
   "priority_rank": 22,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -223,7 +249,7 @@
   "segment": "Architecture Colleges",
   "examples": "SPA, SAP",
   "current": "Architecture Colleges struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 470,
   "addressable_pct": 0.1,
   "addressable_n": 47,
@@ -269,7 +295,11 @@
   "priority_rank": 28,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -277,7 +307,7 @@
   "segment": "Management Institutes",
   "examples": "IIMs, ISB",
   "current": "Management Institutes struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 5000,
   "addressable_pct": 0.05,
   "addressable_n": 250,
@@ -323,7 +353,16 @@
   "priority_rank": 10,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_pain_urgency": 3,
+  "beachhead_purchasing_power": 4,
+  "beachhead_market_density": 3,
+  "beachhead_whole_product_fit": 1,
+  "beachhead_total": 11,
+  "beachhead_source_note": "From your Beachhead PDF, discussion pass.",
+  "beachhead_rank": 8,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -331,7 +370,7 @@
   "segment": "Law Colleges",
   "examples": "NLUs",
   "current": "Law Colleges struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 1500,
   "addressable_pct": 0.05,
   "addressable_n": 75,
@@ -377,7 +416,11 @@
   "priority_rank": 23,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -385,7 +428,7 @@
   "segment": "Polytechnics",
   "examples": "Govt Polytechnics",
   "current": "Polytechnics struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 4000,
   "addressable_pct": 0.08,
   "addressable_n": 320,
@@ -431,7 +474,11 @@
   "priority_rank": 11,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -439,7 +486,7 @@
   "segment": "ITI Institutes",
   "examples": "Govt ITIs",
   "current": "ITI Institutes struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 14000,
   "addressable_pct": 0.05,
   "addressable_n": 700,
@@ -485,7 +532,16 @@
   "priority_rank": 5,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_pain_urgency": 2,
+  "beachhead_purchasing_power": 3,
+  "beachhead_market_density": 2,
+  "beachhead_whole_product_fit": 1,
+  "beachhead_total": 8,
+  "beachhead_source_note": "From your Beachhead PDF, discussion pass. Flag: your own exercise scored this the lowest of the group (8/20) — this sits in real tension with this tool's priority rank of #5. Worth reconciling directly rather than trusting either number blindly.",
+  "beachhead_rank": 10,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -493,7 +549,7 @@
   "segment": "Coaching Centres",
   "examples": "Allen, Aakash",
   "current": "Coaching Centres struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 40000,
   "addressable_pct": 0.02,
   "addressable_n": 800,
@@ -539,7 +595,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -547,7 +607,7 @@
   "segment": "CA Coaching",
   "examples": "JK Shah, VSI",
   "current": "CA Coaching struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 600,
   "addressable_pct": 0.1,
   "addressable_n": 60,
@@ -592,7 +652,11 @@
   "priority_rank": 27,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -600,7 +664,7 @@
   "segment": "Language Institutes",
   "examples": "Goethe-Institut",
   "current": "Language Institutes struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 300,
   "addressable_pct": 0.1,
   "addressable_n": 30,
@@ -646,7 +710,11 @@
   "priority_rank": 12,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -699,7 +767,11 @@
   "priority_rank": null,
   "segment_type": "channel",
   "monetization_mode": "API / usage-based (embedded SDK)",
-  "monetization_note": "Usage-based API pricing (per-verification or per-learner) fits how these platforms already price their own services — a per-institution SaaS model doesn't map to their business."
+  "monetization_note": "Usage-based API pricing (per-verification or per-learner) fits how these platforms already price their own services — a per-institution SaaS model doesn't map to their business.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Learning Providers",
@@ -707,7 +779,7 @@
   "segment": "Corporate Academies",
   "examples": "Infosys Lex",
   "current": "Corporate Academies struggle to measure real competency beyond exams and completion.",
-  "musthave": "Inability to demonstrate job-ready competencies reduces learner outcomes, reputation and future enrolments.",
+  "musthave": "Without continuous competency evidence, teachers can't spot and act on individual gaps in time, and institutions can't show real learning outcomes — beyond a single exam score — to parents, accreditors, or their own leadership.",
   "count": 2000,
   "addressable_pct": 0.05,
   "addressable_n": 100,
@@ -752,7 +824,11 @@
   "priority_rank": 24,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Hiring & Workforce",
@@ -760,7 +836,7 @@
   "segment": "Corporate HR",
   "examples": "Infosys, TCS",
   "current": "Corporate HR rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 25000,
   "addressable_pct": 0.02,
   "addressable_n": 500,
@@ -805,7 +881,11 @@
   "priority_rank": 20,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Hiring & Workforce",
@@ -813,7 +893,7 @@
   "segment": "L&D Teams",
   "examples": "Accenture",
   "current": "L&D Teams rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 15000,
   "addressable_pct": 0.03,
   "addressable_n": 450,
@@ -857,7 +937,11 @@
   "priority_rank": 21,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Hiring & Workforce",
@@ -865,7 +949,7 @@
   "segment": "Staffing Firms",
   "examples": "TeamLease",
   "current": "Staffing Firms rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 5000,
   "addressable_pct": 0.05,
   "addressable_n": 250,
@@ -910,7 +994,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Hiring & Workforce",
@@ -918,7 +1006,7 @@
   "segment": "RPO Firms",
   "examples": "Randstad",
   "current": "RPO Firms rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 300,
   "addressable_pct": 0.15,
   "addressable_n": 45,
@@ -962,7 +1050,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Hiring & Workforce",
@@ -970,7 +1062,7 @@
   "segment": "Placement Cells",
   "examples": "Engineering Colleges",
   "current": "Placement Cells rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 4000,
   "addressable_pct": 0.1,
   "addressable_n": 400,
@@ -1015,7 +1107,16 @@
   "priority_rank": 1,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_pain_urgency": 4,
+  "beachhead_purchasing_power": 3.5,
+  "beachhead_market_density": 4,
+  "beachhead_whole_product_fit": 3.5,
+  "beachhead_total": 15.0,
+  "beachhead_source_note": "From your Beachhead PDF, refined online-research pass (\"Placement Cells (Higher Ed)\").",
+  "beachhead_rank": 3,
+  "beachhead_top5": true
  },
  {
   "macro": "Hiring & Workforce",
@@ -1023,7 +1124,7 @@
   "segment": "Apprenticeship Programs",
   "examples": "NAPS",
   "current": "Apprenticeship Programs rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 500,
   "addressable_pct": 0.1,
   "addressable_n": 50,
@@ -1068,7 +1169,16 @@
   "priority_rank": 8,
   "segment_type": "market",
   "monetization_mode": "Programme contract (NAPS-linked)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_pain_urgency": 4,
+  "beachhead_purchasing_power": 3.5,
+  "beachhead_market_density": 3.5,
+  "beachhead_whole_product_fit": 4,
+  "beachhead_total": 15.0,
+  "beachhead_source_note": "From your Beachhead PDF, refined online-research pass.",
+  "beachhead_rank": 2,
+  "beachhead_top5": true
  },
  {
   "macro": "Hiring & Workforce",
@@ -1076,7 +1186,7 @@
   "segment": "Manufacturing Training",
   "examples": "Toyota",
   "current": "Manufacturing Training rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 3000,
   "addressable_pct": 0.03,
   "addressable_n": 90,
@@ -1121,7 +1231,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Hiring & Workforce",
@@ -1129,7 +1243,7 @@
   "segment": "Gig Platforms",
   "examples": "Urban Company",
   "current": "Gig Platforms rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 40,
   "addressable_pct": 0.2,
   "addressable_n": 8,
@@ -1173,7 +1287,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "API / usage-based (per-verification)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Hiring & Workforce",
@@ -1181,7 +1299,7 @@
   "segment": "Recruitment Agencies",
   "examples": "Adecco",
   "current": "Recruitment Agencies rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 4000,
   "addressable_pct": 0.03,
   "addressable_n": 120,
@@ -1226,7 +1344,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Hiring & Workforce",
@@ -1234,7 +1356,7 @@
   "segment": "Internal Mobility Teams",
   "examples": "Large Enterprises",
   "current": "Internal Mobility Teams rely on interviews, resumes and subjective evaluations.",
-  "musthave": "Wrong hiring or deployment decisions increase productivity loss, attrition and business cost.",
+  "musthave": "Without continuous, longitudinal competency evidence, decisions on hiring, deployment and promotion lean on one-time impressions instead of demonstrated development — raising mismatch risk and attrition.",
   "count": 800,
   "addressable_pct": 0.1,
   "addressable_n": 80,
@@ -1278,7 +1400,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS) + API for HRIS integration",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Government & Public Sector",
@@ -1286,7 +1412,7 @@
   "segment": "NSDC",
   "examples": "NSDC",
   "current": "NSDC need reliable evidence of competency and outcomes.",
-  "musthave": "Failure to demonstrate measurable workforce outcomes reduces policy effectiveness and funding confidence.",
+  "musthave": "Without continuous, verifiable competency data — not just program completion counts — policymakers can't demonstrate real skilling outcomes, weakening the case for continued funding.",
   "count": 1,
   "addressable_pct": 0.5,
   "addressable_n": 0,
@@ -1330,7 +1456,11 @@
   "priority_rank": 16,
   "segment_type": "market",
   "monetization_mode": "Programme contract (govt, multi-year)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Government & Public Sector",
@@ -1338,7 +1468,7 @@
   "segment": "State Skill Missions",
   "examples": "Karnataka Skill Development",
   "current": "State Skill Missions need reliable evidence of competency and outcomes.",
-  "musthave": "Failure to demonstrate measurable workforce outcomes reduces policy effectiveness and funding confidence.",
+  "musthave": "Without continuous, verifiable competency data — not just program completion counts — policymakers can't demonstrate real skilling outcomes, weakening the case for continued funding.",
   "count": 36,
   "addressable_pct": 0.3,
   "addressable_n": 11,
@@ -1383,7 +1513,16 @@
   "priority_rank": 3,
   "segment_type": "market",
   "monetization_mode": "Programme contract (state govt, multi-year)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_pain_urgency": 4,
+  "beachhead_purchasing_power": 5,
+  "beachhead_market_density": 3,
+  "beachhead_whole_product_fit": 2,
+  "beachhead_total": 14,
+  "beachhead_source_note": "From your Beachhead PDF, initial discussion pass — no refined online-research figure was given for this segment.",
+  "beachhead_rank": 4,
+  "beachhead_top5": true
  },
  {
   "macro": "Government & Public Sector",
@@ -1391,7 +1530,7 @@
   "segment": "Government Recruitment Boards",
   "examples": "SSC, UPSC",
   "current": "Government Recruitment Boards need reliable evidence of competency and outcomes.",
-  "musthave": "Failure to demonstrate measurable workforce outcomes reduces policy effectiveness and funding confidence.",
+  "musthave": "Without continuous, verifiable competency data — not just program completion counts — policymakers can't demonstrate real skilling outcomes, weakening the case for continued funding.",
   "count": 40,
   "addressable_pct": 0.2,
   "addressable_n": 8,
@@ -1435,7 +1574,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Programme contract (govt procurement)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Government & Public Sector",
@@ -1443,7 +1586,7 @@
   "segment": "Defence Academies",
   "examples": "NDA",
   "current": "Defence Academies need reliable evidence of competency and outcomes.",
-  "musthave": "Failure to demonstrate measurable workforce outcomes reduces policy effectiveness and funding confidence.",
+  "musthave": "Without continuous, verifiable competency data — not just program completion counts — policymakers can't demonstrate real skilling outcomes, weakening the case for continued funding.",
   "count": 12,
   "addressable_pct": 0.3,
   "addressable_n": 4,
@@ -1487,7 +1630,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Programme contract (govt procurement)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Government & Public Sector",
@@ -1495,7 +1642,7 @@
   "segment": "Police Academies",
   "examples": "State Police",
   "current": "Police Academies need reliable evidence of competency and outcomes.",
-  "musthave": "Failure to demonstrate measurable workforce outcomes reduces policy effectiveness and funding confidence.",
+  "musthave": "Without continuous, verifiable competency data — not just program completion counts — policymakers can't demonstrate real skilling outcomes, weakening the case for continued funding.",
   "count": 30,
   "addressable_pct": 0.2,
   "addressable_n": 6,
@@ -1540,7 +1687,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Programme contract (govt procurement)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Government & Public Sector",
@@ -1548,7 +1699,7 @@
   "segment": "Public Universities",
   "examples": "State Universities",
   "current": "Public Universities need reliable evidence of competency and outcomes.",
-  "musthave": "Failure to demonstrate measurable workforce outcomes reduces policy effectiveness and funding confidence.",
+  "musthave": "Without continuous, verifiable competency data — not just program completion counts — policymakers can't demonstrate real skilling outcomes, weakening the case for continued funding.",
   "count": 450,
   "addressable_pct": 0.1,
   "addressable_n": 45,
@@ -1593,7 +1744,11 @@
   "priority_rank": 18,
   "segment_type": "market",
   "monetization_mode": "Subscription (SaaS)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Government & Public Sector",
@@ -1601,7 +1756,7 @@
   "segment": "Employment Exchanges",
   "examples": "State Employment Offices",
   "current": "Employment Exchanges need reliable evidence of competency and outcomes.",
-  "musthave": "Failure to demonstrate measurable workforce outcomes reduces policy effectiveness and funding confidence.",
+  "musthave": "Without continuous, verifiable competency data — not just program completion counts — policymakers can't demonstrate real skilling outcomes, weakening the case for continued funding.",
   "count": 36,
   "addressable_pct": 0.2,
   "addressable_n": 7,
@@ -1646,7 +1801,11 @@
   "priority_rank": 25,
   "segment_type": "market",
   "monetization_mode": "Programme contract (state govt)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1699,7 +1858,11 @@
   "priority_rank": 13,
   "segment_type": "channel",
   "monetization_mode": "White-label / licensing",
-  "monetization_note": "Revenue-share or flat licensing fee for embedding Drona's competency engine in the partner's existing product — not a per-seat sale."
+  "monetization_note": "Revenue-share or flat licensing fee for embedding Drona's competency engine in the partner's existing product — not a per-seat sale.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1707,7 +1870,7 @@
   "segment": "Certification Bodies",
   "examples": "PMI",
   "current": "Certification Bodies need more credible competency verification.",
-  "musthave": "If assessments fail to reflect real competency, trust, compliance and commercial value decline.",
+  "musthave": "Without a genuine longitudinal competency layer, certification and accreditation stay snapshot-based, disconnected from whether a demonstrated skill is actually maintained or still growing.",
   "count": 80,
   "addressable_pct": 0.15,
   "addressable_n": 12,
@@ -1751,7 +1914,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "White-label / licensing (co-branded certification)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1759,7 +1926,7 @@
   "segment": "Accreditation Bodies",
   "examples": "NAAC, NBA",
   "current": "Accreditation Bodies need more credible competency verification.",
-  "musthave": "If assessments fail to reflect real competency, trust, compliance and commercial value decline.",
+  "musthave": "Without a genuine longitudinal competency layer, certification and accreditation stay snapshot-based, disconnected from whether a demonstrated skill is actually maintained or still growing.",
   "count": 10,
   "addressable_pct": 0.4,
   "addressable_n": 4,
@@ -1803,7 +1970,11 @@
   "priority_rank": 29,
   "segment_type": "market",
   "monetization_mode": "White-label / licensing (embedded in accreditation workflow)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1811,7 +1982,7 @@
   "segment": "Professional Councils",
   "examples": "ICAI, Nursing Council",
   "current": "Professional Councils need more credible competency verification.",
-  "musthave": "If assessments fail to reflect real competency, trust, compliance and commercial value decline.",
+  "musthave": "Without a genuine longitudinal competency layer, certification and accreditation stay snapshot-based, disconnected from whether a demonstrated skill is actually maintained or still growing.",
   "count": 25,
   "addressable_pct": 0.2,
   "addressable_n": 5,
@@ -1855,7 +2026,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Programme contract (regulatory body)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1863,7 +2038,7 @@
   "segment": "Testing Organizations",
   "examples": "Pearson VUE",
   "current": "Testing Organizations need more credible competency verification.",
-  "musthave": "If assessments fail to reflect real competency, trust, compliance and commercial value decline.",
+  "musthave": "Without a genuine longitudinal competency layer, certification and accreditation stay snapshot-based, disconnected from whether a demonstrated skill is actually maintained or still growing.",
   "count": 15,
   "addressable_pct": 0.25,
   "addressable_n": 4,
@@ -1907,7 +2082,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "White-label / licensing (infrastructure partnership)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Credentialing & Assessment",
@@ -1915,7 +2094,7 @@
   "segment": "Licensing Authorities",
   "examples": "Medical Councils",
   "current": "Licensing Authorities need more credible competency verification.",
-  "musthave": "If assessments fail to reflect real competency, trust, compliance and commercial value decline.",
+  "musthave": "Without a genuine longitudinal competency layer, certification and accreditation stay snapshot-based, disconnected from whether a demonstrated skill is actually maintained or still growing.",
   "count": 30,
   "addressable_pct": 0.2,
   "addressable_n": 6,
@@ -1960,7 +2139,11 @@
   "priority_rank": null,
   "segment_type": "market",
   "monetization_mode": "Programme contract (regulatory body)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Impact & Development",
@@ -1968,7 +2151,7 @@
   "segment": "CSR Foundations",
   "examples": "Infosys Foundation",
   "current": "CSR Foundations measure activities more than competency outcomes.",
-  "musthave": "Without measurable impact evidence, funding, partnerships and programme credibility are at risk.",
+  "musthave": "Without continuous, competency-linked evidence — not just activity counts — CSR, NGO and development programmes struggle to prove real learner or beneficiary outcomes to funders and stakeholders.",
   "count": 500,
   "addressable_pct": 0.1,
   "addressable_n": 50,
@@ -2013,7 +2196,16 @@
   "priority_rank": 9,
   "segment_type": "market",
   "monetization_mode": "Services contract (programme-linked, annual)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_pain_urgency": 4,
+  "beachhead_purchasing_power": 5,
+  "beachhead_market_density": 3,
+  "beachhead_whole_product_fit": 1,
+  "beachhead_total": 13,
+  "beachhead_source_note": "From your Beachhead PDF, discussion pass.",
+  "beachhead_rank": 6,
+  "beachhead_top5": false
  },
  {
   "macro": "Impact & Development",
@@ -2021,7 +2213,7 @@
   "segment": "NGOs",
   "examples": "Pratham",
   "current": "NGOs measure activities more than competency outcomes.",
-  "musthave": "Without measurable impact evidence, funding, partnerships and programme credibility are at risk.",
+  "musthave": "Without continuous, competency-linked evidence — not just activity counts — CSR, NGO and development programmes struggle to prove real learner or beneficiary outcomes to funders and stakeholders.",
   "count": 8000,
   "addressable_pct": 0.02,
   "addressable_n": 160,
@@ -2065,7 +2257,11 @@
   "priority_rank": 30,
   "segment_type": "market",
   "monetization_mode": "Services contract (programme-linked)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Impact & Development",
@@ -2073,7 +2269,7 @@
   "segment": "Incubators",
   "examples": "NSRCEL",
   "current": "Incubators measure activities more than competency outcomes.",
-  "musthave": "Without measurable impact evidence, funding, partnerships and programme credibility are at risk.",
+  "musthave": "Without continuous, competency-linked evidence — not just activity counts — CSR, NGO and development programmes struggle to prove real learner or beneficiary outcomes to funders and stakeholders.",
   "count": 300,
   "addressable_pct": 0.1,
   "addressable_n": 30,
@@ -2118,7 +2314,11 @@
   "priority_rank": 26,
   "segment_type": "market",
   "monetization_mode": "Services contract (cohort-based)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Impact & Development",
@@ -2126,7 +2326,7 @@
   "segment": "Migration Programs",
   "examples": "GIZ Triple Win",
   "current": "Migration Programs measure activities more than competency outcomes.",
-  "musthave": "Without measurable impact evidence, funding, partnerships and programme credibility are at risk.",
+  "musthave": "Without continuous, competency-linked evidence — not just activity counts — CSR, NGO and development programmes struggle to prove real learner or beneficiary outcomes to funders and stakeholders.",
   "count": 15,
   "addressable_pct": 0.3,
   "addressable_n": 4,
@@ -2170,7 +2370,16 @@
   "priority_rank": 4,
   "segment_type": "market",
   "monetization_mode": "Programme contract (agency-funded, GIZ Triple Win-style)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_pain_urgency": 5,
+  "beachhead_purchasing_power": 4,
+  "beachhead_market_density": 4,
+  "beachhead_whole_product_fit": 4.5,
+  "beachhead_total": 17.5,
+  "beachhead_source_note": "From your Beachhead PDF, refined online-research pass — your highest-scoring segment (18/20) in that exercise.",
+  "beachhead_rank": 1,
+  "beachhead_top5": true
  },
  {
   "macro": "Impact & Development",
@@ -2178,7 +2387,7 @@
   "segment": "Development Agencies",
   "examples": "UNDP",
   "current": "Development Agencies measure activities more than competency outcomes.",
-  "musthave": "Without measurable impact evidence, funding, partnerships and programme credibility are at risk.",
+  "musthave": "Without continuous, competency-linked evidence — not just activity counts — CSR, NGO and development programmes struggle to prove real learner or beneficiary outcomes to funders and stakeholders.",
   "count": 40,
   "addressable_pct": 0.2,
   "addressable_n": 8,
@@ -2222,7 +2431,11 @@
   "priority_rank": 14,
   "segment_type": "market",
   "monetization_mode": "Programme contract (agency-funded)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Impact & Development",
@@ -2230,7 +2443,7 @@
   "segment": "Scholarship Foundations",
   "examples": "Inlaks",
   "current": "Scholarship Foundations measure activities more than competency outcomes.",
-  "musthave": "Without measurable impact evidence, funding, partnerships and programme credibility are at risk.",
+  "musthave": "Without continuous, competency-linked evidence — not just activity counts — CSR, NGO and development programmes struggle to prove real learner or beneficiary outcomes to funders and stakeholders.",
   "count": 400,
   "addressable_pct": 0.08,
   "addressable_n": 32,
@@ -2274,7 +2487,11 @@
   "priority_rank": 31,
   "segment_type": "market",
   "monetization_mode": "Services contract (programme-linked, annual)",
-  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured."
+  "monetization_note": "Standard per-institution or per-seat subscription, billed annually — matches how comparable institutional tools (ERP, LMS) are typically procured.",
+  "buyer_type": "B2B",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Individual Learners (B2C)",
@@ -2325,7 +2542,16 @@
   "scenario_title": "Sweet spot",
   "scenario_strategy": "Top pretotype priority. Move fast before competitors notice.",
   "priority_score": 100.0,
-  "priority_rank": 2
+  "priority_rank": 2,
+  "buyer_type": "B2C",
+  "beachhead_pain_urgency": 3,
+  "beachhead_purchasing_power": 2,
+  "beachhead_market_density": 4,
+  "beachhead_whole_product_fit": 4,
+  "beachhead_total": 13,
+  "beachhead_source_note": "Not covered by your Beachhead PDF (institutional \"Language Institutes\" was scored there, but this is the separate B2C segment). Independent estimate: real but non-acute pain, lower individual willingness to pay, large pool, strong whole-product fit given your proven CEFR platform.",
+  "beachhead_rank": 5,
+  "beachhead_top5": true
  },
  {
   "macro": "Individual Learners (B2C)",
@@ -2377,7 +2603,11 @@
   "scenario_title": "Sweet spot",
   "scenario_strategy": "Top pretotype priority. Move fast before competitors notice.",
   "priority_score": 71.3,
-  "priority_rank": 15
+  "priority_rank": 15,
+  "buyer_type": "B2C",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Individual Learners (B2C)",
@@ -2429,7 +2659,11 @@
   "scenario_title": "Sleepy giant",
   "scenario_strategy": "Investigate why growth is low before committing; can be a real modernization opportunity.",
   "priority_score": 65.0,
-  "priority_rank": 19
+  "priority_rank": 19,
+  "buyer_type": "B2C",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  },
  {
   "macro": "Individual Learners (B2C)",
@@ -2481,6 +2715,10 @@
   "scenario_title": "Mature battlefield",
   "scenario_strategy": "Avoid unless you have a 10x disruptive angle worth its own pretotype first.",
   "priority_score": 0,
-  "priority_rank": null
+  "priority_rank": null,
+  "buyer_type": "B2C",
+  "beachhead_total": null,
+  "beachhead_rank": null,
+  "beachhead_top5": false
  }
 ]
