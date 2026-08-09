@@ -74,7 +74,7 @@
 <div class="wrap">
   <header>
     <h1>Dronalytics — customer segment field</h1>
-    <div class="sub">47 candidate customer segments for Dronalytics — a continuous, longitudinal competency-assessment engine with role-based access (admin/management monitoring + individual personalised insight), spanning institutional (B2B) and direct-to-consumer (B2C) buyers. The top 10 by priority score now also carry a Beachhead score (Geoffrey Moore framework — pain/urgency, purchasing power, market density, whole-product fit), sourced from your own Beachhead strategy exercise where a segment matches, with any conflicts flagged directly. Teal dashed halo = B2C; diamond = channel/partnership; the small inner shape on scored bubbles is a mini Beachhead radar. Tap a bubble for its full report card.</div>
+    <div class="sub">47 candidate customer segments for Dronalytics — a continuous, longitudinal competency-assessment engine with role-based access (admin/management monitoring + individual personalised insight), spanning institutional (B2B) and direct-to-consumer (B2C) buyers. All 10 top-priority segments carry a full Beachhead score (Geoffrey Moore framework — pain/urgency, purchasing power, market density, whole-product fit), sourced from your own Beachhead strategy exercise where a segment matches, with conflicts flagged directly. The gold badge number is the Beachhead rank — the one that matters once a segment is scored. Teal dashed halo = B2C; diamond = channel/partnership. Tap a bubble for its full report card.</div>
   </header>
 
   <div class="filters">
@@ -83,7 +83,7 @@
       <option value="">All segments</option>
       <option value="top5">Top 5 priority</option>
       <option value="top10">Top 10 priority</option>
-      <option value="beachhead5">Beachhead top 5 (Moore)</option>
+      <option value="beachhead10">Beachhead scored (top 10)</option>
       <option value="excluded">Excluded (kill filter)</option>
     </select>
     <select id="monetizationFilter"><option value="">All monetization modes</option></select>
@@ -204,7 +204,7 @@ function buildSVG(filterMacro, priorityMode, filterMonetization){
     let isExcluded = d.excluded;
     if(priorityMode === 'top5') dim = dim || !(d.priority_rank && d.priority_rank <= 5);
     if(priorityMode === 'top10') dim = dim || !(d.priority_rank && d.priority_rank <= 10);
-    if(priorityMode === 'beachhead5') dim = dim || !d.beachhead_top5;
+    if(priorityMode === 'beachhead10') dim = dim || (d.beachhead_total === null || d.beachhead_total === undefined);
     if(priorityMode === 'excluded') dim = dim || !d.excluded;
     if(filterMonetization) dim = dim || d.monetization_mode !== filterMonetization;
 
@@ -252,7 +252,15 @@ function buildSVG(filterMacro, priorityMode, filterMonetization){
       g.appendChild(el('polygon',{points:pts, fill:strokeColor, opacity:'0.28', stroke:strokeColor,'stroke-width':0.8}));
     }
 
-    if(d.priority_rank && d.priority_rank <= 10 && !isExcluded){
+    if(d.beachhead_total !== null && d.beachhead_total !== undefined && !isExcluded){
+      // gold badge = beachhead rank (this is the number that matters once beachhead-scored)
+      const badge = el('circle',{cx:pos.x+rad*0.72, cy:pos.y-rad*0.72, r:8.5, fill:'var(--panel)', stroke:'#D4A94A', 'stroke-width':1.4});
+      g.appendChild(badge);
+      const btext = el('text',{x:pos.x+rad*0.72, y:pos.y-rad*0.72+3, class:'rank-badge', style:'fill:#D4A94A;'});
+      btext.textContent = d.beachhead_rank;
+      g.appendChild(btext);
+    } else if(d.priority_rank && d.priority_rank <= 10 && !isExcluded){
+      // plain badge = priority-score rank, only shown when the segment isn't already beachhead-scored
       const badge = el('circle',{cx:pos.x+rad*0.72, cy:pos.y-rad*0.72, r:8, fill:'var(--panel)', stroke:colorVar, 'stroke-width':1});
       g.appendChild(badge);
       const btext = el('text',{x:pos.x+rad*0.72, y:pos.y-rad*0.72+3, class:'rank-badge'});
@@ -292,7 +300,7 @@ function buildLegend(){
   b2cNote.innerHTML = `<span style="display:inline-block;width:13px;height:13px;border-radius:50%;border:1.4px dashed var(--b2c);"></span>&nbsp;teal halo + "C" = B2C individual segment (no halo = B2B institutional)`;
   wrap.appendChild(b2cNote);
   const radarNote = document.createElement('div'); radarNote.className='legend-item';
-  radarNote.innerHTML = `<span style="display:inline-block;width:11px;height:11px;background:radial-gradient(circle,var(--text-secondary) 30%,transparent 31%);opacity:0.7;"></span>&nbsp;inner shape = Beachhead score (pain/purchasing power/density/fit) — bubbles with no inner shape aren't beachhead-scored yet`;
+  radarNote.innerHTML = `<span style="display:inline-block;width:11px;height:11px;background:radial-gradient(circle,var(--text-secondary) 30%,transparent 31%);opacity:0.7;"></span>&nbsp;inner shape = Beachhead score (pain/purchasing power/density/fit) &nbsp;·&nbsp; <span style="display:inline-block;width:13px;height:13px;border-radius:50%;border:1.4px solid #D4A94A;"></span>&nbsp;gold badge number = Beachhead rank (1-10, the ranking that matters once scored — overrides the plain priority-rank badge)`;
   wrap.appendChild(radarNote);
 }
 
